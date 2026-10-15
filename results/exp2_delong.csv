@@ -1,0 +1,2 @@
+comparison,auc_functional,auc_logistic,delta_auc,z_stat,p_value,paper_delta_auc,paper_z,paper_p
+test_me_functional_vs_logistic,0.5894607843137255,0.6004901960784313,-0.011029411764705843,-0.10519784864118023,0.9162188177873417,0.0019,0.832,0.4052

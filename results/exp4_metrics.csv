@@ -1,0 +1,5 @@
+model,auc,lambda_beta,selected_terms,status,paper_auc
+benchmark,0.590686274509804,0.01,"['hh_available_funds_M3', 'hh_gearing_M9', 'bw_relative_overdraft_M12']",ok,0.8996
+fourier,0.6495098039215687,999.9570918955409,['hh_available_funds_M3'],ok,0.8989
+local_polynomial,0.6053921568627452,999.9570918955409,"['hh_available_funds_M3', 'hh_gearing_M9']",ok,0.8984
+mixed,0.6200980392156863,999.9570918955409,"['hh_available_funds_M3', 'hh_gearing_M9']",ok,0.8989
